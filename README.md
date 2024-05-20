@@ -106,6 +106,8 @@ These are the years-of-introduction of various notable frameworks and library co
 
 - Composer: <http://nelm.io/blog/2011/12/composer-part-1-what-why/>
 
+- YAF MVC Framework 2 <[https://github.com/laruence/yaf](https://pecl.php.net/package/yaf/2.0.0)>
+
 ## 2012
 
 - Laravel 3: <https://web.archive.org/web/20121025120144/http://forums.laravel.com/viewtopic.php?id=573>
@@ -115,6 +117,8 @@ These are the years-of-introduction of various notable frameworks and library co
 - Phalcon 0.3.0: <https://blog.phalcon.io/post/phalcon-0-3-0-released>
 
 - Nette 2: <https://github.com/nette/nette/tree/v2.0.0>
+
+- YAF MVC Framework 2.1 <https://github.com/laruence/yaf>
 
 ## 2013
 
@@ -162,6 +166,10 @@ These are the years-of-introduction of various notable frameworks and library co
 
 - Simple MVC Framework 2.1: <https://packagist.org/packages/simple-mvc-framework/v2#v2.1>
 
+- Workerman Asynchronous event driven PHP socket framework 2.1.6 <[https://www.workerman.net/](https://github.com/walkor/workerman)>
+
+- YAF MVC Framework <https://pecl.php.net/package/yaf/3.0.0>
+
 ## 2016
 
 - Phalcon 3.0.0: <https://blog.phalcon.io/post/phalcon-3-0-0-released>
@@ -175,6 +183,8 @@ These are the years-of-introduction of various notable frameworks and library co
 - NOVA Framework 3: <https://github.com/nova-framework/framework/tree/3.0-nova>
 
 - Swoole 2.0.8: <https://pecl.php.net/package/swoole/2.0.8>
+ 
+- Workerman Asynchronous event driven PHP socket framework  3.2.6 <[https://www.workerman.net/](https://github.com/walkor/workerman)>
 
 ## 2017
 
@@ -183,6 +193,8 @@ These are the years-of-introduction of various notable frameworks and library co
 ## 2018
 
 - Swoole 4: <https://pecl.php.net/package/swoole/4.0.0>
+  
+- Workerman Asynchronous event driven PHP socket framework  3.5.5 <[https://www.workerman.net/](https://github.com/walkor/workerman)>
 
 ## 2019
 
@@ -199,7 +211,16 @@ These are the years-of-introduction of various notable frameworks and library co
 - Phalcon 4: <https://blog.phalcon.io/post/phalcon-4-0-0-released>
 
 - CakePHP 4: <https://bakery.cakephp.org/2019/12/15/cakephp_400_released.html>
+  
+- Workerman Asynchronous event driven PHP socket framework  3.5.18 <[https://www.workerman.net/](https://github.com/walkor/workerman)>
+
+## 2021
+- Workerman Asynchronous event driven PHP socket framework  4.0.18 <[https://www.workerman.net/](https://github.com/walkor/workerman)>
 
 ## 2022
 
 - Phalcon 5: <https://blog.phalcon.io/post/phalcon-v5-0-0-and-v5-0-1-released>
+
+
+## 2023
+- Workerman Asynchronous event driven PHP socket framework  5.0.0 <[https://www.workerman.net/](https://github.com/walkor/workerman)>
